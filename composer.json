@@ -1,48 +1,48 @@
 {
-	"name": "anahkiasen/janitor",
-	"description": "Janitor is a tool to help you remove unused code, views and assets from your codebase.",
-	"license": "MIT",
-	"keywords": [
-		"laravel",
-		"cleanup",
-		"unused"
-	],
-	"authors": [
-		{
-			"name": "Maxime Fabre",
-			"email": "ehtnam6@gmail.com",
-			"homepage": "http://autopergamene.eu/en"
-		}
-	],
-	"require": {
-		"php": ">=5.4.0",
-		"illuminate/support": "~4.2",
-		"illuminate/config": "~4.2",
-		"twig/twig": "^1.18",
-		"symfony/yaml": "^2.6"
-	},
-	"require-dev": {
-		"illuminate/console": "~4.2",
-		"illuminate/filesystem": "~4.2",
-		"illuminate/routing": "~4.2",
-		"phpunit/phpunit": "^4.6",
-		"mockery/mockery": "^0.9.4",
-		"symfony/var-dumper": "^2.6"
-	},
-	"autoload": {
-		"psr-4": {
-			"Janitor\\": "src"
-		}
-	},
-	"autoload-dev": {
-		"psr-4": {
-			"Janitor\\": "tests"
-		}
-	},
-	"extra": {
-		"branch-alias": {
-			"dev-master": "0.1-dev"
-		}
-	},
-	"minimum-stability": "stable"
+  "name": "karljakober/janitor",
+  "description": "Janitor is a tool to help you remove unused code, views and assets from your codebase.",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "cleanup",
+    "unused"
+  ],
+  "authors": [
+    {
+      "name": "Maxime Fabre",
+      "email": "ehtnam6@gmail.com",
+      "homepage": "http://autopergamene.eu/en"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": ">4.2",
+    "illuminate/config": ">4.2",
+    "twig/twig": "^1.18",
+    "symfony/yaml": "^2.6"
+  },
+  "require-dev": {
+    "illuminate/console": ">4.2",
+    "illuminate/filesystem": ">4.2",
+    "illuminate/routing": ">4.2",
+    "phpunit/phpunit": ">4.6",
+    "mockery/mockery": ">0.9.4",
+    "symfony/var-dumper": ">2.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Janitor\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Janitor\\": "tests"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1-dev"
+    }
+  },
+  "minimum-stability": "stable"
 }
