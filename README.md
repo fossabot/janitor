@@ -7,6 +7,7 @@
 [![Code Coverage](http://img.shields.io/scrutinizer/coverage/g/Anahkiasen/janitor.svg?style=flat)](https://scrutinizer-ci.com/g/Anahkiasen/janitor/)
 [![Dependency Status](https://www.versioneye.com/user/projects/5480ddb78674a4feca00031a/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5480ddb78674a4feca00031a)
 [![Support via Gittip](http://img.shields.io/gittip/Anahkiasen.svg?style=flat)](https://www.gittip.com/Anahkiasen/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsemencov%2Fjanitor.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsemencov%2Fjanitor?ref=badge_shield)
 
 Janitor is a tool to help you remove unused code, routes, views and assets from your codebase.
 
@@ -86,3 +87,6 @@ Please see [CONTRIBUTING](https://github.com/thephpleague/:package_name/blob/mas
 ## License
 
 The MIT License (MIT). Please see [License AbstractAnalyzedFile](LICENSE.md) for more information.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsemencov%2Fjanitor.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsemencov%2Fjanitor?ref=badge_large)
